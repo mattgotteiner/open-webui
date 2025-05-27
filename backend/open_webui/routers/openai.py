@@ -667,6 +667,7 @@ def convert_to_azure_payload(
         "response_format",
         "seed",
         "max_completion_tokens",
+        "model"
     }
 
     # Special handling for o-series models
